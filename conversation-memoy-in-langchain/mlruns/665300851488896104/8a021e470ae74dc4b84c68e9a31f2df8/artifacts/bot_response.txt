@@ -1,0 +1,5 @@
+<think>
+Alright, the user just sent "q." That's pretty vague. I need to figure out what they're asking for. Looking back at our conversation, we've been discussing job descriptions and ATS optimization. Maybe they're asking a question related to that. Since "q" is just a single letter, it's likely a typo or shorthand. Perhaps they meant to ask something specific but got cut off. I should prompt them to clarify their question so I can assist them better. I'll keep the response friendly and open-ended to encourage them to provide more details.
+</think>
+
+It seems like your message might be incomplete or unclear. Could you please clarify or provide more details about what you're asking? I'm here to help!

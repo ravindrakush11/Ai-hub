@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/AI/cursorAI/memoryInLangchain/mlruns/665300851488896104/e5c84b8cc79a49d787b26a969af3247f/artifacts
+end_time: 1750758379314
+entry_point_name: ''
+experiment_id: '665300851488896104'
+lifecycle_stage: active
+run_id: e5c84b8cc79a49d787b26a969af3247f
+run_name: chat-session-session-001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750758375776
+status: 4
+tags: []
+user_id: ravin
