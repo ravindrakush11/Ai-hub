@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+requests
+openai
+langchain
+faiss-cpu
+huggingface-hub
