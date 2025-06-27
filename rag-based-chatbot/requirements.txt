@@ -2,8 +2,15 @@ fastapi
 uvicorn
 sqlalchemy
 pydantic
+pydantic[email]
 requests
 openai
 langchain
+langchain-community
+langchain_community
+langchain-huggingface
 faiss-cpu
 huggingface-hub
+langchain-groq
+python-dotenv
+sentence-transformers
