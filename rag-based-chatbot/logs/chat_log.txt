@@ -1,0 +1,57 @@
+User: I want to file a complaint
+Chatbot: I'm sorry to hear that. Let's file a complaint. Please provide your name.
+User: ninja
+User: 1234567890
+User: ninja@emial.com
+User: The product is defective.
+User: file complaint
+Chatbot: I'm sorry to hear that. Let's file a complaint. Please provide your name.
+User: rajan
+User: 7894561235
+User: rajan@email.com
+User: defective product
+Chatbot: ✅ Thank you, rajan. Your complaint has been registered with ID: 21845268
+User: status of 21845268
+Chatbot: To check the status of your complaint with ID **21845268**, please contact our customer support team directly during their working hours (Monday to Saturday, 9:00 AM to 6:00 PM IST). You can also check your registered email for updates, as mentioned in the process after filing a complaint. The chatbot does not track real-time status.
+User: 21845268
+user_input_clean: 21845268
+Chatbot: Complaint id: 21845268
+Chatbot: Name: rajan
+Chatbot: Phone number: 7894561235
+Chatbot: Email: rajan@email.com
+Chatbot: Complaint details: defective product
+Chatbot: Created at: June 29, 2025 03:29 PM
+User: file a new complaint
+Chatbot: I'm sorry to hear that. Let's file a complaint. Please provide your name.
+User: dev
+User: 784562135
+User: 3214569875
+User: dev@email.com
+User: new product is damaged
+Chatbot: ✅ Thank you, dev. Your complaint has been registered with ID: 60d4f49c
+User: status of this 60d4f49c
+Chatbot: The chatbot does not track real-time complaint statuses. To check the status of your complaint with ID **60d4f49c**, please contact our customer support team directly during their working hours (Monday to Saturday, 9:00 AM to 6:00 PM IST). Provide them with your complaint ID for updates.
+User: complaint id 60d4f49c
+user_input_clean: complaint id 60d4f49c
+Chatbot: Complaint id: 60d4f49c
+Chatbot: Name: dev
+Chatbot: Phone number: 3214569875
+Chatbot: Email: dev@email.com
+Chatbot: Complaint details: new product is damaged
+Chatbot: Created at: June 29, 2025 03:30 PM
+User: 60d4f49c
+user_input_clean: 60d4f49c
+Chatbot: Complaint id: 60d4f49c
+Chatbot: Name: dev
+Chatbot: Phone number: 3214569875
+Chatbot: Email: dev@email.com
+Chatbot: Complaint details: new product is damaged
+Chatbot: Created at: June 29, 2025 03:30 PM
+User: thank you
+Chatbot: You're welcome! If you have any more questions or need further assistance, feel free to ask. 😊
+User: exit
+Chatbot: You can exit the conversation at any time. If you have more questions or need further assistance, feel free to reach out. Have a great day! 😊
+User: quit
+Chatbot: If you have any more questions or need further assistance, feel free to ask. Have a great day! 😊
+User: q
+Chatbot: It seems your query is incomplete. Could you please clarify or provide more details about what you're asking? I'm here to help!
