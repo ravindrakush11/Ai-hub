@@ -1,8 +1,38 @@
 Q: How can I file a complaint?
-A: You can file a complaint by talking to our support chatbot, providing your details and issue.
+A: You can file a complaint by talking to our support chatbot. You will need to provide your name, phone number, email address, and a description of the issue.
 
 Q: What details are required for a complaint?
-A: You must provide your name, phone number, email, and complaint description.
+A: We need your full name, contact number, email ID, and a description of the issue you are facing. This helps us resolve your complaint more efficiently.
 
-Q: How long will it take to resolve a complaint?
-A: Usually within 5–7 business days, depending on the issue.
+Q: What types of complaints can I file?
+A: You can file complaints related to delayed delivery, damaged products, incorrect orders, payment issues, or return and refund requests.
+
+Q: How long will it take to resolve my complaint?
+A: Most complaints are resolved within 5 to 7 business days. However, complex issues like product replacements or logistics delays may take longer.
+
+Q: Can I check the status of my complaint?
+A: Currently, the chatbot does not track real-time complaint status. Please contact customer support directly with your complaint ID for updates.
+
+Q: Will I receive a confirmation after filing the complaint?
+A: Yes. After submitting all the required details, you will receive a unique complaint ID and a confirmation message.
+
+Q: What should I do if I don't receive a confirmation message?
+A: Please reinitiate the complaint process or contact customer support if you do not receive a confirmation message or ID.
+
+Q: What happens after I file a complaint?
+A: Once your complaint is logged, our team will review the issue and get in touch with you if more information is needed. You will receive updates on your registered email address.
+
+Q: Can I cancel a complaint after submitting it?
+A: Complaints cannot be canceled once submitted. However, if you wish to update your details or escalate the issue, please contact support.
+
+Q: How are product return complaints handled?
+A: For return-related complaints, we arrange a pickup within 48 hours. Refunds are processed once the product passes quality checks.
+
+Q: What are your customer service working hours?
+A: Our customer support team is available from Monday to Saturday, 9:00 AM to 6:00 PM IST. The chatbot is available 24/7.
+
+Q: Is my data safe after filing a complaint?
+A: Yes, we strictly adhere to data privacy policies. Your personal data is stored securely and used only for resolving your complaint.
+
+Q: How do I escalate my issue?
+A: If your issue is not resolved within the expected time frame, please email escalation@company.com with your complaint ID.
